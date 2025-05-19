@@ -1,6 +1,6 @@
 {
   "name": "domotz-nat-upnp",
-  "version": "1.0.1",
+  "version": "1.0.",
   "main": "lib/nat-upnp",
   "author": "Fedor Indutny <fedor@indutny.com>",
   "homepage": "https://github.com/indutny/node-nat-upnp",
